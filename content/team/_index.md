@@ -3,7 +3,7 @@ title: "We cooperate seamlessly"
 type: team
 image: /img/team-960.jpg
 members:
-  heading: Nuestro Eq
+  heading: Nuestro Equipo
   description: >
     KALDI team is consist of developer, designer, and project/prodcut manager.
     Each member has rich experience in its field, and all are veterans to take responsibility of the each part of a project. We have worked together for long time, and all fit together very well.
