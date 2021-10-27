@@ -4,7 +4,7 @@ logo: /img/contact-us.png
 contact_entries:
   - heading: Ubicación
     text: 'Puerto Williams 278, Puerto Montt, Chile'
-  - heading: Working hours
+  - heading: Horarios de Oficina
     text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
 Nos encantaría ponernos en contacto contigo y escuchar tus ideas y
