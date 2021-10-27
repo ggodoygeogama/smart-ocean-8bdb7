@@ -7,7 +7,7 @@ members:
   description: >
     El equipo de SmartOcean está formado por un Ingeniero Ambiental, un Magister en Oceanografia y un Magister en Inteligencia Artificial. Cada miembro tiene una basta experiencia en su campo y todos estan comprometidos para asumir la responsabilidad de cada parte de un proyecto. Hemos trabajado juntos durante mucho tiempo y todos nos complementamos muy bien.
   blurbs:
-    - image: https://i.imgur.com/cTenH0s.jpg)
+    - image: https://i.imgur.com/cTenH0s.jpg
       name: Christian Haeger
       text: >
         Chief programmer, skilled in front-end/mobile app development, have a good feeling on UI details, technique advantages include javascript/nodejs/typescript/css, currently focus on Reactjs/Graphql tech stack.
