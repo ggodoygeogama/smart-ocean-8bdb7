@@ -1,7 +1,7 @@
 ---
 title: "We cooperate seamlessly"
 type: team
-image: /img/team-960.jpg
+image: [Imgur](https://i.imgur.com/cTenH0s.jpg)
 members:
   heading: Nuestro Equipo
   description: >
