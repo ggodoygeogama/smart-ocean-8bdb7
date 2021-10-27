@@ -20,7 +20,7 @@ export default function ContactForm() {
         <fieldset>
           <textarea 
             id="message" name="message" 
-            placeholder="Your message" 
+            placeholder="Mensaje" 
             rows="8" cols="80" 
             className="w-100" 
           />
