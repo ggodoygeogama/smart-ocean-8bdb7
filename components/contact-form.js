@@ -6,7 +6,7 @@ export default function ContactForm() {
         <div className="flex-l mhn1-l">
           <div className="ph1-l w-50-l">
             <fieldset>
-              <input type="text" id="name" name="name" placeholder="Name" className="w-100 mb2" />
+              <input type="text" id="name" name="name" placeholder="Nombre" className="w-100 mb2" />
               <label htmlFor="name">Name</label>
             </fieldset>
           </div>
