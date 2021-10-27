@@ -16,7 +16,7 @@ intro:
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contacto us directly for current
+        local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations-coffee-gear.svg
       text: >
@@ -75,7 +75,7 @@ pricing:
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
-    month. o us about more details and payment info.
+    month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
