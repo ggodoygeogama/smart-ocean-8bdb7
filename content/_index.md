@@ -1,5 +1,5 @@
 ---
-title: "Sistema Avanzado de Acuicultura Sostenible"
+title: "S.A.vanzado de Acuicultura Sostenible"
 subtitle: Sistema Avanzado de Acuicultura Sostenible
 image: /img/home-jumbotron.jpg
 blurb:
