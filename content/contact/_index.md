@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: [Imgur](https://i.imgur.com/xZX0Mrp.png)
+logo: /img/contact-us.png
 contact_entries:
   - heading: Ubicación
     text: 'Puerto Williams 278, Puerto Montt, Chile'
