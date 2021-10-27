@@ -22,7 +22,7 @@ export default function Blog4Home({ posts }) {
         </div>
         <div className="tc">
           <Link href="/post">
-            <a className="btn raise">Read more</a>
+            <a className="btn raise">Leer más</a>
           </Link>
         </div>
       </div>
