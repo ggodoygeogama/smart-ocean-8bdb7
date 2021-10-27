@@ -1,5 +1,5 @@
 ---
-title: "Sistema avanzado de A"
+title: "Sistema Avanzado de A"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
