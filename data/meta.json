@@ -1,25 +1,24 @@
 {
-  "logo": "/img/logo.svg",
-  "menus": [
-    {
-      "page": "Products",
-      "url": "/products"
-    },
-    {
-      "page": "Values",
-      "url": "/values"
-    },
-    {
-      "page": "Team",
-      "url": "/team"
-    },
-    {
-      "page": "Blog",
-      "url": "/post"
-    },
-    {
-      "page": "Contact",
-      "url": "/contact"
-    }
-  ]
+    "menus": [
+        {
+            "page": "Products",
+            "url": "/products"
+        },
+        {
+            "page": "Values",
+            "url": "/values"
+        },
+        {
+            "page": "Team",
+            "url": "/team"
+        },
+        {
+            "page": "Blog",
+            "url": "/post"
+        },
+        {
+            "page": "Contact",
+            "url": "/contact"
+        }
+    ]
 }
