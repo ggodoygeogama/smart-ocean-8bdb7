@@ -75,7 +75,7 @@ pricing:
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    month. Contacto us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
