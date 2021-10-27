@@ -5,7 +5,7 @@ export default function NewsletterForm() {
         <input type="text" id="email" placeholder="Your email" className="w-100" />
         <label htmlFor="email">Your email</label>
       </fieldset>
-      <button className="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
+      <button className="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Enviar</button>
     </form>
 
   )
