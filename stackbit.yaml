@@ -1,0 +1,353 @@
+stackbitVersion: ~0.3.0
+ssgName: nextjs
+nodeVersion: '12'
+publishDir: out
+dataDir: data
+pagesDir: content
+models:
+  contact:
+    type: page
+    label: Contact
+    folder: contact
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: image
+        name: logo
+        label: Logo
+      - type: list
+        name: contact_entries
+        label: Contact Entries
+        items:
+          type: object
+          fields:
+            - type: string
+              name: heading
+              label: Heading
+            - type: string
+              name: text
+              label: Text
+  post:
+    type: page
+    label: Post
+    folder: post
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: string
+        name: description
+        label: Description
+      - type: image
+        name: image
+        label: Image
+  product:
+    type: page
+    label: Product
+    folder: products
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: string
+        name: type
+        label: Type
+      - type: image
+        name: image
+        label: Image
+      - type: string
+        name: heading
+        label: Heading
+      - type: string
+        name: description
+        label: Description
+      - type: object
+        name: intro
+        label: Intro
+        fields:
+          - type: list
+            name: blurbs
+            label: Blurbs
+            items:
+              type: object
+              fields:
+                - type: image
+                  name: image
+                  label: Image
+                - type: string
+                  name: text
+                  label: Text
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: description
+            label: Description
+      - type: object
+        name: main
+        label: Main
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: description
+            label: Description
+          - type: object
+            name: image1
+            label: Image 1
+            fields:
+              - type: string
+                name: alt
+                label: Alt
+              - type: image
+                name: image
+                label: Image
+          - type: object
+            name: image2
+            label: Image 2
+            fields:
+              - type: string
+                name: alt
+                label: Alt
+              - type: image
+                name: image
+                label: Image
+          - type: object
+            name: image3
+            label: Image 3
+            fields:
+              - type: string
+                name: alt
+                label: Alt
+              - type: image
+                name: image
+                label: Image
+      - type: list
+        name: testimonials
+        label: Testimonials
+        items:
+          type: object
+          fields:
+            - type: string
+              name: author
+              label: Author
+            - type: string
+              name: quote
+              label: Quote
+      - type: image
+        name: full_image
+        label: Full Image
+      - type: object
+        name: pricing
+        label: Pricing
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: description
+            label: Description
+          - type: list
+            name: plans
+            label: Plans
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: description
+                  label: Description
+                - type: list
+                  name: items
+                  label: Items
+                  items:
+                    type: string
+                - type: string
+                  name: plan
+                  label: Plan
+                - type: string
+                  name: price
+                  label: Price
+  team:
+    type: page
+    label: Team
+    folder: team
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: type
+        label: Type
+      - type: image
+        name: image
+        label: Image
+      - type: object
+        name: members
+        label: Members
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: description
+            label: Description
+          - type: list
+            name: blurbs
+            label: Blurbs
+            items:
+              type: object
+              fields:
+                - type: image
+                  name: image
+                  label: Image
+                - type: string
+                  name: name
+                  label: Name
+                - type: string
+                  name: text
+                  label: Text
+  value:
+    type: page
+    label: Value
+    folder: values
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: image
+        name: image
+        label: Image
+      - type: list
+        name: values
+        label: Values
+        items:
+          type: object
+          fields:
+            - type: string
+              name: heading
+              label: Heading
+            - type: string
+              name: text
+              label: Text
+            - type: image
+              name: imageUrl
+              label: Image Url
+  content:
+    type: page
+    label: Content
+    match: '*'
+    exclude:
+      - tech.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: image
+        name: image
+        label: Image
+      - type: object
+        name: blurb
+        label: Blurb
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: text
+            label: Text
+      - type: object
+        name: intro
+        label: Intro
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: text
+            label: Text
+      - type: list
+        name: products
+        label: Products
+        items:
+          type: object
+          fields:
+            - type: image
+              name: image
+              label: Image
+            - type: string
+              name: text
+              label: Text
+      - type: object
+        name: values
+        label: Values
+        fields:
+          - type: string
+            name: heading
+            label: Heading
+          - type: string
+            name: buttonText
+            label: Button Text
+          - type: string
+            name: buttonLink
+            label: Button Link
+          - type: image
+            name: image
+            label: Image
+          - type: string
+            name: text
+            label: Text
+  content_1:
+    type: page
+    label: Content 1
+    match: '*'
+    exclude:
+      - _index.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: boolean
+        name: draft
+        label: Draft
+  meta:
+    type: data
+    label: Meta
+    file: meta.json
+    fields:
+      - type: image
+        name: logo
+        label: Logo
+      - type: list
+        name: menus
+        label: Menus
+        items:
+          type: object
+          fields:
+            - type: string
+              name: page
+              label: Page
+            - type: string
+              name: url
+              label: Url
