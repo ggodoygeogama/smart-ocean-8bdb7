@@ -1,5 +1,5 @@
 ---
-title: "Sistema Avanzado de A"
+title: "Sistema Avanzado de Acuicultura Sostenible"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
