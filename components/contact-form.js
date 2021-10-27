@@ -1,7 +1,7 @@
 export default function ContactForm() {
   return (
     <div className="mb4">
-      <h4 className="f3 b lh-title mb3 tc">Para cualquier información deje su mensaje </h4>
+      <h4 className="f3 b lh-title mb3 tc">Para cualquier información deje su mensaje en la parte inferior</h4>
       <form action="">
         <div className="flex-l mhn1-l">
           <div className="ph1-l w-50-l">
