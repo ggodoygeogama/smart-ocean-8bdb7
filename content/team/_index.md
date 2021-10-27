@@ -5,8 +5,7 @@ image: /img/team-960.jpg
 members:
   heading: Nuestro Equipo
   description: >
-    KALDI team is consist of developer, designer, and project/prodcut manager.
-    Each member has rich experience in its field, and all are veterans to take responsibility of the each part of a project. We have worked together for long time, and all fit together very well.
+    El equipo de SmartOcean está formado por un Ingeniero Ambiental, un Magister en Oceanografia y un Magister en Inteligencia Artificial. Cada miembro tiene una basta experiencia en su campo y todos estan comprometidos para asumir la responsabilidad de cada parte de un proyecto. Hemos trabajado juntos durante mucho tiempo y todos nos complementamos muy bien.
   blurbs:
     - image: /img/developer.jpeg
       name: Robin.li
