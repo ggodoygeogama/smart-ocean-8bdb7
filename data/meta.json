@@ -1,7 +1,7 @@
 {
     "menus": [
         {
-            "page": "Products",
+            "page": "Productos",
             "url": "/products"
         },
         {
