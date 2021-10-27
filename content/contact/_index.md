@@ -4,7 +4,7 @@ logo: /img/contact-us.png
 contact_entries:
   - heading: Ubicación
     text: 'Puerto Williams 278, Puerto Montt, Chile'
-  - heading: Horarios de Oficina
+  - {}
 ---
 Nos encantaría ponernos en contacto contigo y escuchar tus ideas y
 preguntas. Nos esforzamos por crecer y mejorar constantemente y sus comentarios.
