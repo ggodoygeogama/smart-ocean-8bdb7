@@ -1,6 +1,6 @@
 ---
 title: "Sistema Avanzado de Acuicultura Sostenible"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Sistema Avanzado de Acuicultura Sostenible
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
