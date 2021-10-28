@@ -10,7 +10,7 @@ members:
     - image: https://i.imgur.com/cTenH0s.jpg
       name: Christian Haeger
       text: >
-        Ingeniero Ambiental con mas de 20 años de experiencia en el desarrollo y evaluación de proyectos  en su componente medioambiental, con alta experiencia en líderar proyectos para aprobación de concesiones maritimas, fundador de la empresa consultora mediambiental Geogama. Visionario de tecnologias sustentables con el medioambiente..
+        Ingeniero Ambiental con mas de 20 años de experiencia en el desarrollo y evaluación de proyectos  en su componente medioambiental, con alta experiencia en líderar proyectos para aprobación de concesiones maritimas, fundador de la empresa consultora mediambiental Geogama. Visionario de tecnologias sustentables con el medioambiente.
     - image: /img/designer.jpeg
       name: Rain.hao
       text: >
