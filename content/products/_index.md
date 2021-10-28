@@ -26,10 +26,7 @@ intro:
 main:
   heading: Sostenibilidad y Optimización en el uso de recursos naturales
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Primer sistema en tiempo real que integra el monitoreo, control y predicción de las emisiones  generadas por la salmonicultura, siendo capaz de obtener datos provenientes del proceso de transformación digital de la industria además de garantizar la confidencialidad y seguridad de la información
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
