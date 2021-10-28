@@ -9,7 +9,7 @@ intro:
     heading: "Lo que ofrecemos"
     text: "Nosotros desarrollamos herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: [Imgur](https://i.imgur.com/fXPhzSh.jpg)
       text: "Controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral."
     - image: /img/illustrations-coffee-gear.svg
       text: "Ser los proveedores de soluciones tecnológicas para conservar y utilizar sosteniblemente los océanos, mares, costas y los recursos marinos por parte de las industrias que se ven beneficiadas de este recurso natural."
