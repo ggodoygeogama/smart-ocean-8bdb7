@@ -3,6 +3,7 @@ title: 'Presentación de tesis para la integración de modelos oceanograficos co
 date: '2021-03-04T15:04:10.000Z'
 description: >-
   Evaluación de diferentes algoritmos de inteligencia artificial para la predicción de series temporales de variables oceanográficas en la región de Magallanes, Chile.
+image: https://i.imgur.com/NwbgBM4m.jpg
 ---
 
 Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godoy, uno de los integrantes del equipo de SmartOcean el empezó a generar diferentes pruebas con diferentes técnicas de inteligencia artificial para poder determinar cuales de los algoritmos generaba una mejor respuesta en la predicción de las variables oceanograficas en la región de Magallanes.
