@@ -17,7 +17,7 @@ export default function Footer() {
             <h3 className="f4 b lh-title mb1 primary">Kaldi</h3>
             <ul className="mb3">
               <li><a href="/" className="link">Home</a></li>
-              <li><a href="/products" className="link">Our products</a></li>
+              <li><a href="/products" className="link">Nuestros productos</a></li>
               <li><a href="/values" className="link">About</a></li>
               <li><a href="/post" className="link">Blog</a></li>
               <li><a href="/contact" className="link">Contacto</a></li>
