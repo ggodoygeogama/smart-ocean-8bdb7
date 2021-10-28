@@ -6,7 +6,7 @@ values:
   - heading: Transparencia en la información
     text: >
       Hay carencia en el control y la información ambiental de la industria acuícola, por tal motivo con la incorporación de nuestras soluciones llegaremos a cubrir esta necesidad.
-    imageUrl: [Imgur](https://i.imgur.com/MyDqRqVm.jpg)
+    imageUrl: https://i.imgur.com/MyDqRqVm.jpg)
   - heading: Adelantar a proximas necesidades
     text: >
       Se toman decisiones con información ambiental pasada. Lo que conlleva a que no se puedan preveer posibles desastre ambientales o que algunos lugares dejen de ser productivos.
