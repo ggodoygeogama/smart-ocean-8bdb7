@@ -5,10 +5,11 @@ image: https://i.imgur.com/xZX0Mrp.png
 values:
   - heading: Shade-grown coffee
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+      Hay carencia en el control y la información ambiental de la industria acuícola.
+Porque: Se toman decisiones con información ambiental pasada.
+Porque: No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. 
+Porque: La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas.
+Porque: No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
     imageUrl: /img/about-shade-grown.jpg
   - heading: Single origin
     text: >
