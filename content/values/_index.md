@@ -1,7 +1,7 @@
 ---
 title: Valores
 subtitle: We grow coffee with great quality
-image: /img/about-jumbotron.jpg
+image: [Imgur](https://i.imgur.com/xZX0Mrp.png)
 values:
   - heading: Shade-grown coffee
     text: >
