@@ -53,7 +53,7 @@ pricing:
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - 3 lbs of coffee per month
+        - Observa 
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Pequeño
