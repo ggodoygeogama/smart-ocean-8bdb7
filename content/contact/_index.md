@@ -1,6 +1,6 @@
 ---
 title: Contacto
-logo: 'https://i.imgur.com/Dmd2wHs.png'
+logo: [Imgur](https://i.imgur.com/mChIkZAb.png)
 contact_entries:
   - heading: Ubicación
     text: 'Puerto Montt, Chile'
