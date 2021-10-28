@@ -11,7 +11,7 @@ intro:
 products:
     - image: https://i.imgur.com/fXPhzSh.jpg
       text: "Controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral."
-    - image: https://i.imgur.com/2cDeBay.png)
+    - image: https://i.imgur.com/2cDeBay.png
       text: "Siendo los proveedores de soluciones tecnológicas para conservar y utilizar sosteniblemente los océanos, mares, costas y los recursos marinos por parte de las industrias que se ven beneficiadas de este recurso natural."
 values:
     heading: Nuestros Valores
