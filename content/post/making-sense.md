@@ -9,4 +9,4 @@ El proceso de aceleración de la transformación digital a llevado a que los org
 
 Con la finalidad de poder generar información en tiempo real y así poder preveer algúnos problemas relacionados con las actividades acuicolas, pero con todo esto esta generando información valiosa en las empresas que debe ser aprovechado para la determinación de patrones y optimización de los procesos actuales.
 
-Por tal motivo, se genera una excelente oportunidad de que se empiece a integrar todos los avances tecnologicos en pro a la sustentabilidad en consonacia con lo que exigen los organismos además de generar valor para la empresa y así mejorar sus procesos 
+Por tal motivo, se genera una excelente oportunidad de que se empiece a integrar todos los avances tecnologicos en pro a la sustentabilidad en consonacia con lo que exigen los organismos además de generar valor para la empresa y así mejorar sus procesos productivos y en agenda de disminución de la huella de carbono.
