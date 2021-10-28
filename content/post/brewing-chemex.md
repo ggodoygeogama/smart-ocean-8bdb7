@@ -2,7 +2,7 @@
 title: Inicio de colaboración con la Universidad de Vigo
 date: '2021-10-01T15:04:10.000Z'
 description: >-
-  Se empieza en la colaboración en el desarrollo de integración de modelo oceanografico e hidrodinamico de la región de Aysén, Chile en miras de potenciar el desarrollo de tecnologia para la determinación del comportamiento de variables oceanograficas del sector..
+  Se empieza en la colaboración en el desarrollo de integración de modelo oceanografico e hidrodinamico de la región de Aysén, Chile en miras de potenciar el desarrollo de tecnologia para la determinación del comportamiento de variables oceanograficas del sector.
 image: /img/blog-chemex.jpg
 ---
 
