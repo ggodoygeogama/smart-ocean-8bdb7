@@ -67,7 +67,7 @@ pricing:
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
+        - Lo que sea que necesites
         - Green or roasted beans
         - Unlimited varieties
       plan: Personalizado
