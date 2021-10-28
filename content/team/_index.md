@@ -14,7 +14,7 @@ members:
     - image: https://i.imgur.com/1kzk8D9.jpg
       name: Juan Morán
       text: >
-        Chief designer, senior graphic designer with more than 10 years experience of industry software UI, magzine, advertisement, packaging design. The best outstanding speciality of her is corperate identity design. 
+        Especialista en ciencias marinas como Físico Oceanógrafo, además cuenta con un Magister en Oceanografia Física, cuenta con mas de 15 años de experiencia en el rubro oceanografico. Ha generado evaluación y desarrollo de modelación de proyectos para la acuicultura alrededor de 10 años, cuenta con una basta experiencia en el modelo de impactos ambientales en el ecosistema maritimo. 
     - image: /img/leader.jpeg
       name: Thomas
       text: >
