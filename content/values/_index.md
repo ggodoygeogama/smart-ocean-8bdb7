@@ -8,7 +8,7 @@ values:
       Hay carencia en el control y la información ambiental de la industria acuícola, por tal motivo con la incorporación de nuestras soluciones llegaremos a cubrir esta necesidad.
 
     imageUrl: /img/about-shade-grown.jpg
-  - heading: P
+  - heading: 
     text: >
       Se toman decisiones con información ambiental pasada.
     
