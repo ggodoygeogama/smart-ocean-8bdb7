@@ -61,7 +61,7 @@ pricing:
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - sistema robusto de predicción de efectos ambientales
-        - Green or roasted beans
+        - generación de alarmas
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
