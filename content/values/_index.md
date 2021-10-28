@@ -10,10 +10,10 @@ values:
     imageUrl: /img/about-shade-grown.jpg
   - heading: Single origin
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+      Se toman decisiones con información ambiental pasada.
+      No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. 
+      La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas.
+      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
     imageUrl: /img/about-single-origin.jpg
   - heading: Sustainable farming
     text: >
