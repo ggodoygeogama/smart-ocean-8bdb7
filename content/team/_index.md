@@ -12,7 +12,7 @@ members:
       text: >
         Ingeniero Ambiental con mas de 20 años de experiencia en el desarrollo y evaluación de proyectos  en su componente medioambiental, con alta experiencia en líderar proyectos para aprobación de concesiones maritimas, fundador de la empresa consultora mediambiental Geogama. Visionario de tecnologias sustentables con el medioambiente.
     - image: /img/designer.jpeg
-      name: Rain.hao
+      name: Juan Morán
       text: >
         Chief designer, senior graphic designer with more than 10 years experience of industry software UI, magzine, advertisement, packaging design. The best outstanding speciality of her is corperate identity design. 
     - image: /img/leader.jpeg
