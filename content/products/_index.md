@@ -24,7 +24,7 @@ intro:
   description: >
     SmartOcean a través de S.A.A.S. (Sistema Avanzado de Acuicultura Sostenible), permite la incorporación del uso de datos e incorporación de tecnología, pudiendo optimizar los procesos productivos actuales. Ayuda a reducir la huella de carbono y contribuye así a la sostenibilidad del negocio.
 main:
-  heading: Great coffee with no compromises
+  heading: Sostenibilidad y Optimización en el uso de recursos naturales
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
