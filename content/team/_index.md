@@ -19,8 +19,4 @@ members:
       name: Thomas
       text: >
         Project manager,  growing from coder for many years then turn to PM, he is the most talktive and creative person in our team. His responsibility includes project planning, user requirement accessment, and project delivery.
-    - image: /img/marketing.jpeg
-      name: su
-      text: >
-        Marketing lead, the youngest yet smartest and the tough guy of tackle problems, he exists in our team as a sharp knife and generalist. Each time we kickout a new project, he is the right person to choose, and definitely will give our a awesome start point.
 ---
