@@ -57,7 +57,7 @@ pricing:
         - Vista de a 
         - One or two varieties of beans"
       plan: Pequeño
-      price: '50'
+      price: '500'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - Sistema robusto de predicción de efectos ambientales
