@@ -69,7 +69,7 @@ pricing:
       items:
         - Lo que sea que necesites
         - Green or roasted beans
-        - Identificación de
+        - Identificación de patrones 
       plan: Personalizado
       price: '?'
 ---
