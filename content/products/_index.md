@@ -45,7 +45,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: https://i.imgur.com/xW7lXGl.png)
+full_image: https://i.imgur.com/xW7lXGl.png
 pricing:
   heading: Monthly subscriptions
   description: >-
