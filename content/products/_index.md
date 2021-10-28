@@ -1,7 +1,7 @@
 ---
 title: S.A.A.S.
 subtitle: Sistema Avanzado de Acuicultura Sostenible
-type: products
+type: Productos
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
