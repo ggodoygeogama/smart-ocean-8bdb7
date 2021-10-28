@@ -60,7 +60,7 @@ pricing:
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - 6 lbs of coffee per month
+        - sistema robusto de predicción de efectos ambientales
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
