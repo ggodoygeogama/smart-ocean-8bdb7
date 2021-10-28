@@ -58,7 +58,7 @@ pricing:
         - Comportamiento del sector 
       plan: Pequeño
       price: '500'
-    - description: 'Plan 
+    - description: 'Plan
       items:
         - Sistema robusto de predicción de efectos ambientales
         - Generación de alarmas de tu sector productivo
