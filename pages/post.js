@@ -15,7 +15,7 @@ export default function Blog({posts}) {
           <title>Blog | {CMS_NAME}</title>
         </Head>
         <Jumbotron 
-          title="Últimas historias"
+          title="Latest stories"
           subtitle=""
           imageUrl="/img/blog-index.jpg"
         />
