@@ -13,7 +13,7 @@ export default function ContactForm() {
           <div className="ph1-l w-50-l">
             <fieldset>
               <input type="email" id="email" name="email" placeholder="Email" className="w-100 mb2" />
-              <label htmlFor="email">Email</label>
+              <label htmlFor="email">Correo</label>
             </fieldset>
           </div>
         </div>
@@ -24,7 +24,7 @@ export default function ContactForm() {
             rows="8" cols="80" 
             className="w-100" 
           />
-          <label htmlFor="message">Your message</label>
+          <label htmlFor="message">Su mensaje</label>
         </fieldset>
         <div className="tc">
           <button type="submit" className="btn w-100 w-auto-ns raise">Enviar</button>

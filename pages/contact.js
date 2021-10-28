@@ -5,7 +5,7 @@ import ContactForm from '../components/contact-form'
 import { getPageData } from '../lib/api'
 import { CMS_NAME } from '../lib/constants'
 
-export default function ContacePage({page}) {
+export default function ContactPage({page}) {
 
   return (
     <>
