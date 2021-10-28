@@ -62,7 +62,7 @@ pricing:
       items:
         - Sistema robusto de predicción de efectos ambientales
         - Generación de alarmas
-        - Up to 4 different varieties of beans
+        - determinación de externalidades negativas de las condiciones ambientales
       plan: Big
       price: '80'
     - description: ¿Quieres una variedad de análisis de tus proyectos y empresas? Prueba nuestro plan personalizado
