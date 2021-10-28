@@ -14,7 +14,7 @@ export default function Footer() {
         </div>
         <div className="flex-ns justify-between">
           <div>
-            <h3 className="f4 b lh-title mb1 primary">Kaldi</h3>
+            <h3 className="f4 b lh-title mb1 primary">Sma</h3>
             <ul className="mb3">
               <li><a href="/" className="link">Home</a></li>
               <li><a href="/products" className="link">Nuestros productos</a></li>
