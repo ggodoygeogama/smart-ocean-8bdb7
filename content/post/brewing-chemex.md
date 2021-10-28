@@ -10,4 +10,4 @@ A partir de esta fecha se empezo a llevar a cabo la colaboración entre la Unive
 
 Este proceso fue llevado a cabo gracias al enlace de Juan Morán, uno de los fundadores y oceanografos del equipo, para ayudarnos a dar un sustento de investigación y así poder publicar los hayasgos en el desarrollo de soluciones oceanograficas y así poder generar modelos de Forecasting de diferentes sectores tomando en cuenta levantamientos de información de campo por parte la empresa Geogama, la cual esta dando vida a que pueda llevarse a cabo la traducción de la ciencia aplicada.
 
-Estas investigaciones y desarrollo de integración de modelos va a permitir el 
+Estas investigaciones y desarrollo de integración de modelos va a permitir la publicación cientifica de los hayasgos 
