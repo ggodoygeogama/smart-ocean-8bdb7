@@ -6,8 +6,7 @@ contact_entries:
     text: 'Puerto Montt, Chile'
   - {}
 ---
-Nos encantaría ponernos en contacto contigo y escuchar tus ideas ademas de tus
-preguntas. Nos esforzamos por crecer y mejorar constantemente con sus comentarios.
+Nos encantaría ponernos en contacto contigo y escuchar tus ideas ademas de tus preguntas. Nos esforzamos por crecer y mejorar constantemente con sus comentarios.
 
 \<h3 class="f4 b lh-title mv3">¿Cómo puedo conseguir probar su solución …?\</h3>
 
