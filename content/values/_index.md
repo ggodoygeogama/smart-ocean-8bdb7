@@ -10,7 +10,7 @@ values:
     imageUrl: /img/about-shade-grown.jpg
   - heading: Adelantar a proximas necesidades
     text: >
-      Se toman decisiones con información ambiental pasada.
+      Se toman decisiones con información ambiental pasada. Lo que conlleva a que 
     
     imageUrl: /img/about-single-origin.jpg
   - heading: Sustainable farming
