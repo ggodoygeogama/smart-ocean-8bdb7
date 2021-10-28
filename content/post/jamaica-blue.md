@@ -9,5 +9,6 @@ Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godo
 
 Para poder llevar a cabo todo este proceso fue necesario llevar a cabo el tratamiento de una gran cantidad de datos e ir determinando un piloto experimental con el cual pudieran hacerse diferentes pruebas e ir determinando las correspondientes predicciones.
 
-El proceso fue fructifero y forma parte de esta constante integración y desarrollo de las soluciones que les presentamos desde SmartOcean, apoyandonos en el campo de la investigación cientificac para dar sustento a nuestras soluciones tecnologicas, probando a escalas de laboratorio hasta llevarlas a 
+El proceso fue fructifero y forma parte de esta constante integración y desarrollo de las soluciones que les presentamos desde SmartOcean, apoyandonos en el campo de la investigación cientificac para dar sustento a nuestras soluciones tecnologicas, probando a escalas de laboratorio hasta llevarlas a tamaño insutruial como soluciones efectivas para el mercado.
 
+Luego del desarrollo del piloto experimental estamos incorporando muchos mas recursos y escalabilidad para que este al alcance de cada uno de clientes.
