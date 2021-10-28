@@ -61,7 +61,7 @@ pricing:
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - Sistema robusto de predicción de efectos ambientales
-        - Generación de alarmas
+        - Generación de alarmas de tu sector productivo
         - determinación de externalidades negativas de las condiciones ambientales
       plan: Premiun
       price: '1000'
