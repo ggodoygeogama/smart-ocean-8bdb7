@@ -29,7 +29,7 @@ main:
     Primer sistema en tiempo real que integra el monitoreo, control y predicción de las emisiones  generadas por la salmonicultura, siendo capaz de obtener datos provenientes del proceso de transformación digital de la industria además de garantizar la confidencialidad y seguridad de la información
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: [Imgur](https://i.imgur.com/M3NEuYz.png)
+    image: [Imgur](https://i.imgur.com/M3NEuYz.png
   image2:
     alt: sistema de control
     image: https://i.imgur.com/V0Tes2fm.png
