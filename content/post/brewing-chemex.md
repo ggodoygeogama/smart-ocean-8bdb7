@@ -8,7 +8,7 @@ image: https://i.imgur.com/AQblPc7m.jpg
 
 A partir de esta fecha se empezo a llevar a cabo la colaboración entre la Universidad de Vigo y SmartOcean a traves de la empresa Geogama con la finalidad de desarrollar tanto a nivel cientifico como comercial la integración de información de diferentes modelos que permiten caracterizar la región de Aysen al sur de Chile.
 
-Este proceso fue llevado a cabo gracias al enlace de Juan Morán que permitio .
+Este proceso fue llevado a cabo gracias al enlace de Juan Morán que .
 
 ## The little secrets of Chemex brewing
 
