@@ -19,10 +19,8 @@ values:
     imageUrl: /img/about-sustainable-farming.jpg
   - heading: Direct sourcing
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+      La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas.
+      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
     text: >
