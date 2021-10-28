@@ -15,7 +15,7 @@ members:
       name: Juan Morán
       text: >
         Especialista en ciencias marinas como Físico Oceanógrafo, además cuenta con un Magister en Oceanografia Física, cuenta con mas de 15 años de experiencia en el rubro oceanografico. Ha generado evaluación y desarrollo de modelación de proyectos para la acuicultura alrededor de 10 años, cuenta con una basta experiencia en el modelo de impactos ambientales en el ecosistema maritimo. 
-    - image: https://i.imgur.com/9EyTH6F.jpg)
+    - image: https://i.imgur.com/9EyTH6F.jpg
       name: Giocrisrai Godoy
       text: >
         Project manager,  growing from coder for many years then turn to PM, he is the most talktive and creative person in our team. His responsibility includes project planning, user requirement accessment, and project delivery.
