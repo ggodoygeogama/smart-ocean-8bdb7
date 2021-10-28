@@ -55,7 +55,7 @@ pricing:
       items:
         - Observa el comportamiento del impacto ambiental en una región
         - Vista de alarmas de regienos
-        - One or two varieties of beans"
+        - Comportamiento del sector 
       plan: Pequeño
       price: '500'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
