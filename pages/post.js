@@ -17,7 +17,7 @@ export default function Blog({posts}) {
         <Jumbotron 
           title="Últimas Historias"
           subtitle=""
-          imageUrl="[Imgur](https://i.imgur.com/xZX0Mrpm.png"
+          imageUrl="https://i.imgur.com/xZX0Mrpm.png"
         />
         <div className="mw9 center">
           <ul className="flex-ns flex-wrap mhn1-ns pa5-m justify-center">
