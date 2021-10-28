@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-black ph3 pv4 white">
       <div className="mw7 center pt3">
         <div className="measure-narrow center mb4">
-          <img className="db w4 center mb4 br0" src="https://i.imgur.com/HI13Ehr.png)" alt="SmartOcean logo" />
+          <img className="db w4 center mb4 br0" src="https://i.imgur.com/HI13Ehr.png" alt="SmartOcean logo" />
           <p className="f3 lh-title light-gray b tc mb2">Suscripción a nuestras actualizaciones</p>
           <p>Reciba noticias increíbles de nosotros en su bandeja de entrada cada dos semanas. Sea el primero en conocer nuevos productos.</p>
           <NewsletterForm />
