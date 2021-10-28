@@ -13,7 +13,7 @@ values:
       Se toman decisiones con información ambiental pasada. Lo que conlleva a que no se puedan preveer posibles desastre ambientales o que algunos lugares dejen de ser productivos.
     
     imageUrl: /img/about-single-origin.jpg
-  - heading: Uso de tecnologia 
+  - heading: Uso de tecnologia de punta en tiempo real
     text: >
       No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. 
     imageUrl: /img/about-sustainable-farming.jpg
