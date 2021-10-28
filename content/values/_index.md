@@ -19,7 +19,7 @@ values:
     imageUrl: /img/about-sustainable-farming.jpg
   - heading: Sustentabilidad ecotecnologica.
     text: >
-      La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas. Demostrar que podemos incorporar elementos 
+      La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas. Demostrar que podemos incorporar elementos que complementen con los avances ya existentes en otras área 
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
     text: >
