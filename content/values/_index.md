@@ -1,7 +1,7 @@
 ---
 title: Valores
 subtitle: We grow coffee with great quality
-image: https://i.imgur.com/xZX0Mrp.png)
+image: https://i.imgur.com/xZX0Mrp.png
 values:
   - heading: Shade-grown coffee
     text: >
