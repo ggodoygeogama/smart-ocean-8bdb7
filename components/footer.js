@@ -31,7 +31,7 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="f4 b lh-title mb2 primary">Redes </h3>
+            <h3 className="f4 b lh-title mb2 primary">Redes sociales</h3>
             <ul className="mhn2">
               <SocialIcon link="#" iconPath="/img/icons-facebook.svg" />
               <SocialIcon link="#" iconPath="/img/icons-twitter.svg" />
