@@ -13,10 +13,7 @@ intro:
         Nosotros desarrollamos herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
