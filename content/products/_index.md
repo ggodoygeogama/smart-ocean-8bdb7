@@ -16,7 +16,7 @@ intro:
         Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral..
+        Controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral.
     - image: /img/illustrations-meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
