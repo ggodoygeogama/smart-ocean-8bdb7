@@ -53,7 +53,7 @@ pricing:
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - Observa el comportamiento de
+        - Observa el comportamiento d
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Pequeño
