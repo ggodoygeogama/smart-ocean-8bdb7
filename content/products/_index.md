@@ -32,7 +32,7 @@ main:
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: [Imgur](https://i.imgur.com/V0Tes2fm.png)
   image3:
     alt: Ecotecnologico
     image: https://i.imgur.com/sqoVbTcm.png
