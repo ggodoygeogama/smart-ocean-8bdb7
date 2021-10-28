@@ -68,7 +68,7 @@ pricing:
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Lo que sea que necesites
-        - Green or roasted beans
+        - Soluciones sostenibles
         - Identificación de patrones en el área de trabajo
       plan: Personalizado
       price: '?'
