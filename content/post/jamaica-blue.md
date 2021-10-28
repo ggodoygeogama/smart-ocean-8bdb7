@@ -5,7 +5,7 @@ description: >-
   Evaluación de diferentes algoritmos de inteligencia artificial para la predicción de series temporales de variables oceanográficas en la región de Magallanes, Chile.
 ---
 
-Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godo, uno de los integrantes del equipo de SmartOcean 
+Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godo, uno de los integrantes del equipo de SmartOcean se procedio 
 
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
