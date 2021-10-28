@@ -12,7 +12,7 @@ products:
     - image: img/illustrations-coffee.svg
       text: "Controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Ser los proveedores de soluciones tecnológicas para conservar y utilizar sosteniblemente los océanos, mares, costas y los recursos marinos por parte de las industrias que se ven beneficiadas de este recurso natural."
 values:
     heading: Nuestros Valores
     buttonText: Leer más
