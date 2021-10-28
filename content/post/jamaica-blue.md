@@ -7,7 +7,7 @@ description: >-
 
 Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godoy, uno de los integrantes del equipo de SmartOcean el empezó a generar diferentes pruebas con diferentes técnicas de inteligencia artificial para poder determinar cuales de los algoritmos generaba una mejor respuesta en la predicción de las variables oceanograficas en la región de Magallanes.
 
-Para poder llevar a cabo todo este proceso fue necesario llevar a cabo el tratamiento de una gran cantidad de datos .
+Para poder llevar a cabo todo este proceso fue necesario llevar a cabo el tratamiento de una gran cantidad de datos.
 
 ## A little history
 
