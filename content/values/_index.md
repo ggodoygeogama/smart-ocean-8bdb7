@@ -15,7 +15,7 @@ values:
     imageUrl: /img/about-single-origin.jpg
   - heading: Uso de tecnologia de punta en tiempo real
     text: >
-      No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. Generamos soluciones para que podamos integrar la i 
+      No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. Generamos soluciones para que podamos integrar y predecir desde distintos  
     imageUrl: /img/about-sustainable-farming.jpg
   - heading: Direct sourcing
     text: >
