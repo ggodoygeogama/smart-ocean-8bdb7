@@ -3,7 +3,7 @@ title: Contacto
 logo: 'https://i.imgur.com/Dmd2wHs.png'
 contact_entries:
   - heading: Ubicación
-    text: 'Puerto Williams 278, Puerto Montt, Chile'
+    text: 'Puerto Montt, Chile'
   - {}
 ---
 Nos encantaría ponernos en contacto contigo y escuchar tus ideas ademas de tus
