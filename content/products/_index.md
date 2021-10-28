@@ -22,10 +22,7 @@ intro:
         Nosotros asesoramos ademas de ser los proveedores de soluciones tecnológicas para conservar y utilizar sosteniblemente los océanos, mares, costas y los recursos marinos por parte de las industrias que se ven beneficiadas de este recurso natural.
   heading: Que les ofrecemos
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    SmartOcean a través de S.A.A.S. (Sistema Avanzado de Acuicultura Sostenible), permite la incorporación del uso de datos e incorporación de tecnología, pudiendo optimizar los procesos productivos actuales. Ayuda a reducir la huella de carbono y contribuye así a la sostenibilidad del negocio.
 main:
   heading: Great coffee with no compromises
   description: >
