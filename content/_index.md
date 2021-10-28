@@ -4,7 +4,7 @@ subtitle: Sistema Avanzado de Acuicultura Sostenible
 image: https://i.imgur.com/xZX0Mrp.png
 blurb:
     heading: ¿Por qué SmartOcean?
-    text: "Somos Smart-Ocean es un proyecto de base ecotecnológico nacida como spin-off de Geogama "
+    text: "SmartOcean bajo sus proyectos S.A.A.S. (Sistema Avanzado de Acuicultura Sostenible), además de ser una alterntiva de tecnologia para determinar nuestro impacto en el medioambiente, nos permite gestionar los recursos naturales como tecnologicos en miras en dar una sustentabilidad en el tiempo tanto de las industrias acuicolas como aquellas que aprovechen los recursos del borde costero, usando información en tiempo real con algoritmos avanzados de inteligencia artificial apoyados en la base de modelaciones hidrodinamicas del sector de operación."
 intro:
     heading: "Lo que ofrecemos"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
