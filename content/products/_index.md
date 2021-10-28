@@ -35,7 +35,7 @@ main:
     image: https://i.imgur.com/V0Tes2fm.png
   image3:
     alt: Ecotecnologico
-    image: https://i.imgur.com/sqoVbTcm.png https://i.imgur.com/M3NEuYz.png
+    image: https://i.imgur.com/M3NEuYz.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
