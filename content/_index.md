@@ -4,7 +4,7 @@ subtitle: Sistema Avanzado de Acuicultura Sostenible
 image: https://i.imgur.com/xZX0Mrp.png
 blurb:
     heading: ¿Por qué SmartOcean?
-    text: "Somos Smart-Ocean es un proyecto de base ecotecnológico nacida como spin-off de Geogama "
+    text: "Somos Smart-Ocean es un proyecto de base ecotecnológico nacida como spin-off de Geogama. Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera "
 intro:
     heading: "Lo que ofrecemos"
     text: "Desarrollo de herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos."
