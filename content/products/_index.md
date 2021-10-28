@@ -42,8 +42,7 @@ testimonials:
       Se puedo optimizar los procesos de alimentación de los centros de cultivo, determinado las mejores horas para poder alimentar de acuerdo a información oceanografica y meteorologica.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Es la solución que necesitamos para identificar las externalidades negativas y poder tomar acciones a tiempo y evitar perdidas en producción.
 full_image: https://i.imgur.com/xW7lXGl.png
 pricing:
   heading: Suscripciones Mensuales
