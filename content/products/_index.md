@@ -56,7 +56,7 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Pe
+      plan: Pequeño
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
