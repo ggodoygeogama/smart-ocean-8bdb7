@@ -3,7 +3,7 @@ title: "S.A.A.S."
 subtitle: Sistema Avanzado de Acuicultura Sostenible
 image: https://i.imgur.com/xZX0Mrp.png
 blurb:
-    heading: Why Kaldi?
+    heading: ¿Por qué SmartOcean?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
