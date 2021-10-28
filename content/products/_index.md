@@ -64,7 +64,7 @@ pricing:
         - Generación de alarmas
         - determinación de externalidades negativas de las condiciones ambientales
       plan: Premiun
-      price: '80'
+      price: '1000'
     - description: ¿Quieres una variedad de análisis de tus proyectos y empresas? Prueba nuestro plan personalizado
       items:
         - Lo que sea que necesites
