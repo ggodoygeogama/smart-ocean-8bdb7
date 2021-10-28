@@ -5,7 +5,7 @@ export default function Blog4Home({ posts }) {
   return (
     <div className="bg-off-white pv4">
       <div className="ph3 mw7 center">
-        <h2 className="f2 b lh-title mb3">Latest stories</h2>
+        <h2 className="f2 b lh-title mb3">Últimas historias</h2>
         <div className="w-100 flex-ns mhn1-ns flex-wrap mb3">
           {
             posts.map(p => (
