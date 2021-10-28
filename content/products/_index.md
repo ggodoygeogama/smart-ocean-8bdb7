@@ -49,9 +49,7 @@ full_image: https://i.imgur.com/xW7lXGl.png
 pricing:
   heading: Suscripciones Mensuales
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contacto us about more details and payment info.
+    Facilitamos que un buen sistema de seguimiento sea parte de una empresa o proyecto. Elija uno de nuestros planes de suscripción mensual para recibir un excelente servicio de acuerdo a sus necesidades del mes. Contáctenos para más detalles e información de pago.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
