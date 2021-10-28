@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="mw7 center pt3">
         <div className="measure-narrow center mb4">
           <img className="db w4 center mb4 br0" src="/img/logo.svg" alt="Kaldi logo" />
-          <p className="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
+          <p className="f3 lh-title light-gray b tc mb2">Suscripción a nuestras actualizaciones</p>
           <p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
           <NewsletterForm />
         </div>
