@@ -18,6 +18,6 @@ values:
     buttonText: Leer más
     buttonLink: /values
     image: https://i.imgur.com/BP5DlD9.jpg
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Los oceanos como recursos natural es un elemento muy valioso además de ser una importante fuente de alimentación de nosotros los humanos. Por tal motivo queremos brindarle todo el soporte en el desarrollo de todos los proyectos que involucren este recurso natural apoyando en el uso de tecnologias que determinen el impacto ambiental así como poder utilizar de manera mas eficiente los recursos existente.
 ---
 
