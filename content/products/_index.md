@@ -35,7 +35,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: [Imgur](https://i.imgur.com/sqoVbTcm.png
+    image: https://i.imgur.com/sqoVbTcm.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
