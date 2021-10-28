@@ -7,4 +7,4 @@ image: https://i.imgur.com/af87UX6m.jpg
 
 El proceso de aceleración de la transformación digital a llevado a que los organismos reguladores no se queden atras en esta era digital por tal motivo han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalizacióm.
 
-Con la finalidad de poder generar información en tiempo real 
+Con la finalidad de poder generar información en tiempo real, 
