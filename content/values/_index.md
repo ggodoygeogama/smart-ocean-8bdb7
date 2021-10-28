@@ -22,5 +22,5 @@ values:
   - heading: Disminución de huella de carbono
     text: >
       No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias. Generamos conciencia que podemos crecer siendo concientes del impacto que estamos generando en el ambiente y generar soluciones que ayude optimizar el uso de los recursos de este modo cumplir con los objetivos de disminución de huella de carbono por las diferentes industrias
-    imageUrl: [Imgur](https://i.imgur.com/AZb1smmm.jpg)
+    imageUrl: https://i.imgur.com/AZb1smmm.jpg)
 ---
