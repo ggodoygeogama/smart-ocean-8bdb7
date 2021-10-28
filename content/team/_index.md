@@ -10,7 +10,7 @@ members:
     - image: https://i.imgur.com/cTenH0s.jpg
       name: Christian Haeger
       text: >
-        Chief programmer, skilled in front-end/mobile app development, have a good feeling on UI details, technique advantages include javascript/nodejs/typescript/css, currently focus on Reactjs/Graphql tech stack.
+        Ingeniero Ambiental con mas de 20 años de experiencia en el desarrollo y evaluación de proyectos  en su componente medioambiental, con alta experiencia en líderar proyectos para aprobación de concesiones maritimas, fundador de la empresa consultora mediambiental Geogama. Visionario de tecnologias sustentables con el medioambiente..
     - image: /img/designer.jpeg
       name: Rain.hao
       text: >
