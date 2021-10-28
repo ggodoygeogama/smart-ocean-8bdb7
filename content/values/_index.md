@@ -23,6 +23,6 @@ values:
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Disminución de huella de carbono
     text: >
-      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
+      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias. Pero 
     imageUrl: /img/about-reinvest-profits.jpg
 ---
