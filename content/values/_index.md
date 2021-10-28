@@ -20,7 +20,6 @@ values:
   - heading: Direct sourcing
     text: >
       La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas.
-      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
     text: >
