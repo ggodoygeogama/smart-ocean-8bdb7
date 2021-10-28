@@ -20,7 +20,7 @@ export default function TwoUp({ intro, products }) {
         </div>
         <div className="tc">
           <Link href="/products" >
-            <a className="btn raise">See all products</a>
+            <a className="btn raise">Ver todos nuestros productos</a>
           </Link>
         </div>
       </div>
