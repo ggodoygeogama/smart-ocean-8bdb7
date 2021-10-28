@@ -17,7 +17,7 @@ values:
     text: >
       No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. Generamos soluciones para que podamos integrar y predecir desde distintas herramientas baja una misma plataforma. 
     imageUrl: /img/about-sustainable-farming.jpg
-  - heading: De
+  - heading: 
     text: >
       La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas.
     imageUrl: /img/about-direct-sourcing.jpg
