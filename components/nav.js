@@ -10,7 +10,7 @@ export default function Nav({logo}) {
     <nav 
       className={`${navStyle} on-${slug}`}>
       <a href="/" className="pa3 db mr4 h-100 w3 flex-none">
-      <img src="https://i.imgur.com/HI13Ehr.png)" alt="SmartOcean logo" className="br0 db mb0 w-100"/>
+      <img src="https://i.imgur.com/HI13Ehr.png" alt="SmartOcean logo" className="br0 db mb0 w-100"/>
       </a>
       <ul className="flex b grey-3">
         {
