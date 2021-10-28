@@ -13,7 +13,7 @@ export default function ContactForm() {
           <div className="ph1-l w-50-l">
             <fieldset>
               <input type="email" id="email" name="email" placeholder="Email" className="w-100 mb2" />
-              <label htmlFor="email">Email</label>
+              <label htmlFor="email">Correo</label>
             </fieldset>
           </div>
         </div>
