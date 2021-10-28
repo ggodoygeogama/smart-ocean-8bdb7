@@ -69,7 +69,7 @@ pricing:
       items:
         - Lo que sea que necesites
         - Green or roasted beans
-        - Unlimited varieties
+        - Identificación de
       plan: Personalizado
       price: '?'
 ---
