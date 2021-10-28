@@ -24,7 +24,7 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="f4 b lh-title mb1 primary">Find out more</h3>
+            <h3 className="f4 b lh-title mb1 primary">Saber más</h3>
             <ul className="mb3">
               <li><a href="/post/jamaica-blue/" className="link">Latest offers</a></li>
               <li><a href="/contact" className="link">Schedule and appointment</a></li>
