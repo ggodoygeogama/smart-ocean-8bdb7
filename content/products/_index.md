@@ -54,7 +54,7 @@ pricing:
     - description: Plan que permite tener un panoramageneral de sectores para posible instalaciones de sistemas productivos
       items:
         - Observa el comportamiento del impacto ambiental en una región
-        - Vista de alarmas de regienos
+        - Vista de alarmas de regiones
         - Comportamiento del sector 
       plan: Pequeño
       price: '500'
