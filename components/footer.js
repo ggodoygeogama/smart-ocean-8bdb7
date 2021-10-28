@@ -18,7 +18,7 @@ export default function Footer() {
             <ul className="mb3">
               <li><a href="/" className="link">Home</a></li>
               <li><a href="/products" className="link">Nuestros productos</a></li>
-              <li><a href="/values" className="link">Acerca de nosotros</a></li>
+              <li><a href="/values" className="link">Acerca de Nosotros</a></li>
               <li><a href="/post" className="link">Blog</a></li>
               <li><a href="/contact" className="link">Contacto</a></li>
             </ul>
