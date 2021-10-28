@@ -21,7 +21,7 @@ values:
     text: >
       La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas. Demostrar que podemos incorporar elementos que complementen con los avances ya existentes en otras área productivas que impacten positivamente el negocio así como el medio en donde se desarrolla la actividad.
     imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
+  - heading: Disminución de huella de carbono
     text: >
       No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias.
     imageUrl: /img/about-reinvest-profits.jpg
