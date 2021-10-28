@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Desarrollo de herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos.
+        Nosotros desarrollo de herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
