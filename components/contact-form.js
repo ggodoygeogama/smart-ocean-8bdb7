@@ -24,7 +24,7 @@ export default function ContactForm() {
             rows="8" cols="80" 
             className="w-100" 
           />
-          <label htmlFor="message">Your message</label>
+          <label htmlFor="message">Su mensaje</label>
         </fieldset>
         <div className="tc">
           <button type="submit" className="btn w-100 w-auto-ns raise">Enviar</button>
