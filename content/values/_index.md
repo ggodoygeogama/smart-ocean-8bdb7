@@ -1,6 +1,6 @@
 ---
 title: Valores
-subtitle: We grow coffee with great quality
+subtitle: Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera
 image: https://i.imgur.com/xZX0Mrp.png
 values:
   - heading: Shade-grown coffee
