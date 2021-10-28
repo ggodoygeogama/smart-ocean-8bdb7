@@ -69,7 +69,7 @@ pricing:
       items:
         - Lo que sea que necesites
         - Green or roasted beans
-        - Identificación de patrones 
+        - Identificación de patrones en el área de trabajo
       plan: Personalizado
       price: '?'
 ---
