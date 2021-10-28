@@ -1,5 +1,5 @@
 ---
-title: "We cooperate seamlessly"
+title: "Cooperación de un equipo multicultural."
 type: team
 image: https://i.imgur.com/xZX0Mrp.png
 members:
