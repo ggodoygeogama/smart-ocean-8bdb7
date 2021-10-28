@@ -11,7 +11,7 @@ intro:
     - image: https://i.imgur.com/AQblPc7m.jpg
       text: >
         Nosotros desarrollamos herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos.
-    - image: https://i.imgur.com/fXPhzShm.jpg)
+    - image: https://i.imgur.com/fXPhzShm.jpg
       text: >
         Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera.
     - image: https://i.imgur.com/2cDeBaym.png
