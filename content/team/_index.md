@@ -18,5 +18,5 @@ members:
     - image: https://i.imgur.com/9EyTH6F.jpg
       name: Giocrisrai Godoy
       text: >
-        Ingeniero Mecatrónico con experiencia en automatización y transformación digital, cuenta con un Máster en Inteligencia Artificial, amplio manejo de herramientas de ciencia de datos, con experiencia en el campo de la fabricación farmacéutica como metalmecánica, transfiriendo su conocimiento al desarrollo sostenible apoyado en el uso de tecnologías disruptivas. .
+        Ingeniero Mecatrónico con experiencia en automatización y transformación digital, cuenta con un Máster en Inteligencia Artificial, amplio manejo de herramientas de ciencia de datos, con experiencia en el campo de la fabricación farmacéutica como metalmecánica, transfiriendo su conocimiento al desarrollo sostenible apoyado en el uso de tecnologías disruptivas.
 ---
