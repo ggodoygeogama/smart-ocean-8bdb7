@@ -5,7 +5,7 @@ type: Productos
 image: /img/products-jumbotron.jpg
 heading: Que les ofrecemos
 description: >-
-  SmartOcean mediante la herramienta SAA.S.
+  SmartOcean mediante la herramienta SA.A.S.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
