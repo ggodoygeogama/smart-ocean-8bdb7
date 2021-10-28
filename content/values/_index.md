@@ -3,7 +3,7 @@ title: Valores
 subtitle: Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera
 image: https://i.imgur.com/xZX0Mrp.png
 values:
-  - heading: Shade-grown coffee
+  - heading: Transparencia en la información
     text: >
       Hay carencia en el control y la información ambiental de la industria acuícola.
 
