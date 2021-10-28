@@ -9,5 +9,5 @@ Dentro del proceso de llevar a cabo el desarrollo de la tesis de Giocrisrai Godo
 
 Para poder llevar a cabo todo este proceso fue necesario llevar a cabo el tratamiento de una gran cantidad de datos e ir determinando un piloto experimental con el cual pudieran hacerse diferentes pruebas e ir determinando las correspondientes predicciones.
 
-
+El proceso fue fructifero y forma parte 
 
