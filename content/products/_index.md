@@ -70,7 +70,7 @@ pricing:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Personalizado
       price: '?'
 ---
 
