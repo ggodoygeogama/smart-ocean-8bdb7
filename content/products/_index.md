@@ -5,7 +5,7 @@ type: Productos
 image: /img/products-jumbotron.jpg
 heading: Que les ofrecemos
 description: >-
-  SmartOcean mediante la herramienta S.A.A.S. les ofrecemos Primer sistema en tiempo real que integra el monitoreo, control y predicción de las emisiones  generadas por la salmonicultura, siendo capaz de obtener datos provenientes del proceso de transformación digital de la industria además de garantizar la confidencialidad y seguridad de la información
+  SmartOcean mediante la herramienta S.A.A.S. les ofrecemos el primer sistema en tiempo real que integra el monitoreo, control y predicción de las emisiones  generadas por la salmonicultura, siendo capaz de obtener datos provenientes del proceso de transformación digital de la industria además de garantizar la confidencialidad y seguridad de la información
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
