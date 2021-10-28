@@ -14,7 +14,7 @@ values:
   - heading: Uso de tecnologia de punta en tiempo real
     text: >
       No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. Generamos soluciones para que podamos integrar y predecir desde distintas herramientas baja una misma plataforma. 
-    imageUrl: [Imgur](https://i.imgur.com/bXKKs8Nm.jpg)
+    imageUrl: https://i.imgur.com/bXKKs8Nm.jpg)
   - heading: Sustentabilidad ecotecnologica.
     text: >
       La industria prioriza la salud y nutrición de sus cultivos, mientras que las tecnologias en el ambito ambiental se encuentran menos desarrolladas. Demostrar que podemos incorporar elementos que complementen con los avances ya existentes en otras área productivas que impacten positivamente el negocio así como el medio en donde se desarrolla la actividad.
