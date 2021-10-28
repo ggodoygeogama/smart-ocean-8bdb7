@@ -5,6 +5,6 @@ description: The Coffee Taster’s Flavor Wheel, the official resource used by c
 image: https://i.imgur.com/af87UX6m.jpg
 ---
 
-El proceso de aceleración de la transformación digital, los organismos reguladores han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalizacióm.
+El proceso de aceleración de la transformación digital a llevado a que los organismos reguladores han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalizacióm.
 
 Con 
