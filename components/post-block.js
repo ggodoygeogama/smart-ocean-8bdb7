@@ -12,7 +12,7 @@ export default function PostBlock({ title, date, description, slug }) {
           />
         </p>
         <p className="mb0">{description}</p>
-        <p className="link b dib black mb0">Read more →</p>
+        <p className="link b dib black mb0">Leer más →</p>
       </a>
     </Link>
   )
