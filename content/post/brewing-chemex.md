@@ -6,8 +6,6 @@ description: >-
 image: https://i.imgur.com/AQblPc7m.jpg
 ---
 
-870 / 5000
-Resultados de traducción
 A partir de esta fecha, la colaboración entre la Universidad de Vigo y SmartOcean comenzó a llevarse a cabo a través de la empresa Geogama con el fin de desarrollar tanto a nivel científico como comercial la integración de información de diferentes modelos que permitan caracterizar la comarca de Aysén en la Sur. Chile. .
 
 Este proceso se llevó a cabo gracias al enlace de Juan Morán, uno de los fundadores y oceanógrafos del equipo, para ayudarnos a apoyar la investigación y así poder publicar los hayasgos en el desarrollo de soluciones oceanográficas y así poder generar Forecasting. . . modelos de diferentes sectores teniendo en cuenta las encuestas de información de campo de la empresa Geogama, que está dando vida a la traducción de la ciencia aplicada.
