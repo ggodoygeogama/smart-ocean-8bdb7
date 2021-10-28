@@ -7,7 +7,7 @@ blurb:
     text: "Somos Smart-Ocean es un proyecto de base ecotecnológico nacida como spin-off de Geogama. Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera "
 intro:
     heading: "Lo que ofrecemos"
-    text: "Nosotros desarrollamos de herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos."
+    text: "Nosotros desarrollamos herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
