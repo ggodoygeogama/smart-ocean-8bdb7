@@ -8,7 +8,7 @@ description: >-
   SmartOcean mediante la herramienta S.A.A.S. les ofrecemos el primer sistema en tiempo real que integra el monitoreo, control y predicción de las emisiones  generadas por la salmonicultura, siendo capaz de obtener datos provenientes del proceso de transformación digital de la industria además de garantizar la confidencialidad y seguridad de la información
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: [Imgur](https://i.imgur.com/AQblPc7m.jpg)
       text: >
         Nosotros desarrollamos herramientas híbridas de modelos oceanográfico y biogeoquímicos, con el objeto de monitorear y controlar en tiempo real la incorporación sustancias provenientes de la actividad acuícola, potenciada con algoritmos de inteligencia artificial para la predicción de posibles impactos.
     - image: /img/illustrations-coffee-gear.svg
