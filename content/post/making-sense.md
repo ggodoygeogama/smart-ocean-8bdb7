@@ -5,4 +5,4 @@ description: The Coffee Taster’s Flavor Wheel, the official resource used by c
 image: https://i.imgur.com/af87UX6m.jpg
 ---
 
-Con e
+Con la llegada de la Pandemia
