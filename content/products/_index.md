@@ -54,7 +54,7 @@ pricing:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - Observa el comportamiento del impacto ambiental en una región
-        - Vista de a 
+        - Vista de alarmas de regienos
         - One or two varieties of beans"
       plan: Pequeño
       price: '500'
