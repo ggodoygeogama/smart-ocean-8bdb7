@@ -5,7 +5,7 @@ image: https://i.imgur.com/xZX0Mrp.png
 values:
   - heading: Transparencia en la información
     text: >
-      Hay carencia en el control y la información ambiental de la industria acuícola, por tal motivo con 
+      Hay carencia en el control y la información ambiental de la industria acuícola, por tal motivo con la incorporación de nuestras soluciones 
 
     imageUrl: /img/about-shade-grown.jpg
   - heading: Single origin
