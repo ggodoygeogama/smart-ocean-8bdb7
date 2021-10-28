@@ -3,7 +3,7 @@ title: Inicio de colaboración con la Universidad de Vigo
 date: '2021-10-01T15:04:10.000Z'
 description: >-
   Se empieza en la colaboración en el desarrollo de integración de modelo oceanografico e hidrodinamico de la región de Aysén, Chile en miras de potenciar el desarrollo de tecnologia para la determinación del comportamiento de variables oceanograficas del sector.
-image: https://i.imgur.com/AQblPc7m.jpg)
+image: https://i.imgur.com/AQblPc7m.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
