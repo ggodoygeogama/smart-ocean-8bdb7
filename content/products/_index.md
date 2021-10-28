@@ -51,7 +51,7 @@ pricing:
   description: >-
     Facilitamos que un buen sistema de seguimiento sea parte de una empresa o proyecto. Elija uno de nuestros planes de suscripción mensual para recibir un excelente servicio de acuerdo a sus necesidades del mes. Contáctenos para más detalles e información de pago.
   plans:
-    - description: P
+    - description: Plan que permite tener un panoramageneral de sectores 
       items:
         - Observa el comportamiento del impacto ambiental en una región
         - Vista de alarmas de regienos
