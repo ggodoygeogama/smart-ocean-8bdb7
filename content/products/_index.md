@@ -63,7 +63,7 @@ pricing:
         - Sistema robusto de predicción de efectos ambientales
         - Generación de alarmas
         - determinación de externalidades negativas de las condiciones ambientales
-      plan: Big
+      plan: Premiun
       price: '80'
     - description: ¿Quieres una variedad de análisis de tus proyectos y empresas? Prueba nuestro plan personalizado
       items:
