@@ -60,8 +60,8 @@ pricing:
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - sistema robusto de predicción de efectos ambientales
-        - generación de alarmas
+        - Sistema robusto de predicción de efectos ambientales
+        - Generación de alarmas
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
