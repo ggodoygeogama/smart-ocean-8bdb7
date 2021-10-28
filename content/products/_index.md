@@ -14,7 +14,7 @@ intro:
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Nos dedicamos al desarrollo de proyectos medioambientales en todas sus fases, enfocados en el área marítima costera.
-    - image: /img/illustrations-tutorials.svg
+    - image: [Imgur](https://i.imgur.com/2cDeBaym.png)
       text: >
         Nosotros nos dedicamos a controlar, monitorear y prevenir los posibles efectos de la actividad antropogénica producida por la industria acuícola, energética o productiva sobre el medio marino y litoral.
     - image: /img/illustrations-meeting-space.svg
