@@ -10,7 +10,6 @@ values:
   - heading: Adelantar a proximas necesidades
     text: >
       Se toman decisiones con información ambiental pasada. Lo que conlleva a que no se puedan preveer posibles desastre ambientales o que algunos lugares dejen de ser productivos.
-    
     imageUrl: /img/about-single-origin.jpg
   - heading: Uso de tecnologia de punta en tiempo real
     text: >
