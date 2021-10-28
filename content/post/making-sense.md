@@ -5,4 +5,4 @@ description: The Coffee Taster’s Flavor Wheel, the official resource used by c
 image: https://i.imgur.com/af87UX6m.jpg
 ---
 
-Con la llegada de la Pandemia y el proceso de aceleración de la transformación digital, los organismos reguladores han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalización
+Con la llegada de la Pandemia y el proceso de aceleración de la transformación digital, los organismos reguladores han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalizació
