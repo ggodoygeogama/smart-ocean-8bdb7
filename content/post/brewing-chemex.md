@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Inicio de colaboración con la Universidad de Vigo
 date: '2021-10-01T15:04:10.000Z'
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
