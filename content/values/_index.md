@@ -10,7 +10,7 @@ values:
   - heading: Adelantar a proximas necesidades
     text: >
       Se toman decisiones con información ambiental pasada. Lo que conlleva a que no se puedan preveer posibles desastre ambientales o que algunos lugares dejen de ser productivos.
-    imageUrl: [Imgur](https://i.imgur.com/TJplmlKm.jpg)
+    imageUrl: [Imgur](https://i.imgur.com/TJplmlKm.jpg
   - heading: Uso de tecnologia de punta en tiempo real
     text: >
       No hay herramientas integradas que permitan generar una caracterización en tiempo real y predicción en corto plazo del impacto ambiental. Generamos soluciones para que podamos integrar y predecir desde distintas herramientas baja una misma plataforma. 
