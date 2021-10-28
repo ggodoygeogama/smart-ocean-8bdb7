@@ -23,6 +23,6 @@ values:
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Disminución de huella de carbono
     text: >
-      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias. Generamos conciencia que podemos crecer siendo concientes del impacto que estamos generando en el ambiente y generar soluciones que ayude optimizar 
+      No habia una conciencia social y gubernamental que impulsará el control ambiental de las industrias primarias. Generamos conciencia que podemos crecer siendo concientes del impacto que estamos generando en el ambiente y generar soluciones que ayude optimizar el uso de los recursos de este modo cumplir con los objetivos de disminución de huella de carbono por las diferentes industrias
     imageUrl: /img/about-reinvest-profits.jpg
 ---
