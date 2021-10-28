@@ -11,7 +11,7 @@ values:
   - heading: Single origin
     text: >
       Se toman decisiones con información ambiental pasada.
-      
+    
     imageUrl: /img/about-single-origin.jpg
   - heading: Sustainable farming
     text: >
