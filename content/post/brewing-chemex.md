@@ -8,7 +8,7 @@ image: https://i.imgur.com/AQblPc7m.jpg
 
 A partir de esta fecha se empezo a llevar a cabo la colaboración entre la Universidad de Vigo y SmartOcean a traves de la empresa Geogama con la finalidad de desarrollar tanto a nivel cientifico como comercial la integración de información de diferentes modelos que permiten caracterizar la región de Aysen al sur de Chile.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+Este proceso fue llevado a cabo gracias a.
 
 ## The little secrets of Chemex brewing
 
