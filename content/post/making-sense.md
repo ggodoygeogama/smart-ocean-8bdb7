@@ -1,8 +1,10 @@
 ---
-title: "Se promulga Decreto para el monitoreo en tiempo real de la industria acuícola en Chile"
+title: >-
+  Se promulga Decreto para el monitoreo en tiempo real de la industria acuícola
+  en Chile
 date: '2021-01-17T15:04:10.000Z'
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: https://i.imgur.com/af87UX6m.jpg
+description: 'Se promulga '
+image: 'https://i.imgur.com/af87UX6m.jpg'
 ---
 
 El proceso de aceleración de la transformación digital a llevado a que los organismos reguladores no se queden atras en esta era digital por tal motivo han promulgado el que se incorporen boyas oceanograficas en los sectores donde se esta llevando actividades relacionadas con la acuicultura, lo que esta conllevando a  que se genere una transparencia en los procesos de fiscalizacióm.
