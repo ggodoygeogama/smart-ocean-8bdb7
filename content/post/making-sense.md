@@ -5,7 +5,7 @@ title: >-
 date: '2021-01-17T15:04:10.000Z'
 description: >-
   Se promulga decretos de ley que obliga al proceso de monitorización de los
-  barrios y conces
+  barrios y concesiones marítimas para
 image: 'https://i.imgur.com/af87UX6m.jpg'
 ---
 
