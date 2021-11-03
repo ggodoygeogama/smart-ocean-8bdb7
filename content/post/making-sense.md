@@ -6,7 +6,7 @@ date: '2021-01-17T15:04:10.000Z'
 description: >-
   Se promulga decretos de ley que obliga al proceso de monitorización de los
   barrios y concesiones marítimas para generar transparencia de la información
-  suministrada al estado además de prevenir con alertar de manera temprana.
+  suministrada al estado además de prevenir con alertas de manera temprana.
 image: 'https://i.imgur.com/af87UX6m.jpg'
 ---
 
