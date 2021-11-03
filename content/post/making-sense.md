@@ -3,7 +3,9 @@ title: >-
   Se promulga Decreto para el monitoreo en tiempo real de la industria acuícola
   en Chile
 date: '2021-01-17T15:04:10.000Z'
-description: Se promulga decr
+description: >-
+  Se promulga decretos de ley que obliga al proceso de monitorización de los
+  barrios y conces
 image: 'https://i.imgur.com/af87UX6m.jpg'
 ---
 
